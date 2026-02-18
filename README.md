@@ -1,5 +1,7 @@
 # ZTM Tunnel Skills
 
+> Create and manage TCP/UDP tunnels through ZTM's P2P mesh network.
+
 OpenClaw Skill for managing TCP/UDP tunnels via ZTM (Zero Trust Mesh).
 
 ## What is this?
